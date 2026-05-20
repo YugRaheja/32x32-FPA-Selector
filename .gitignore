@@ -1,0 +1,23 @@
+# Vivado temporary directories and logs
+*.jou
+*.log
+*.str
+.Xil/
+*.dir/
+
+# Synthesis, Implementation, and Simulation outputs
+*.runs/
+*.sim/
+*.ip_user_files/
+*.hw/
+*.cache/
+*.ioplanning/
+
+# Output files
+*.bit
+*.bin
+*.mcs
+*.prm
+
+# Backup files
+*~
